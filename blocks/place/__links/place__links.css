@@ -1,0 +1,14 @@
+.place__links {
+  margin: 0 0 48px 0;
+  padding: 0;
+  list-style-type: none;
+  align-self: end;
+}
+
+@media screen and (max-width: 320px) {
+  .place__links {
+    margin-bottom: 32px;
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+}
