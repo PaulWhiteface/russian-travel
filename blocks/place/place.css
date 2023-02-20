@@ -35,7 +35,6 @@
     grid-template-columns: 320px;
     grid-template-rows: repeat(auto-fit, 1fr);
     margin-top: 50px;
-    row-gap: 12px;
 
   }
 }
